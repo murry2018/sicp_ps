@@ -16,3 +16,4 @@ Because...
 - Practice 1.1.7 : [1.1.7.scm](practices/1.1.7.scm)
 - exercise 1.6 : Skip
 - exercise 1.7 : [1.7.scm](exercises/1.7.scm)
+- exercise 1.8 : [1.8.scm](exercises/1.8.scm)
